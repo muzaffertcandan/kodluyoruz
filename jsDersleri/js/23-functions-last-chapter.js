@@ -9,6 +9,7 @@
 //     this.innerHTML = `Bu yazıya ${counter} kere tıklandı.`
 // }
 
+
 let counterInner = document.querySelector("#counter") 
 let increase = document.querySelector("#increase")
 let decrease = document.querySelector("#decrease")
